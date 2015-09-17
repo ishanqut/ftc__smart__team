@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="E:\QASMT\Robotics\FTC__2015__16\Robot__App__\FTC_Scouter\app\build\intermediates\exploded-aar\com.android.support\support-v4\22.0.0\jars\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="4e86306289ace4aa0cfec44a05ed2b410d36989d">
+        <dex dex="E:\QASMT\Robotics\FTC__2015__16\Robot__App__\FTC_Scouter\app\build\intermediates\pre-dexed\debug\classes-7f67891b3cd869d7a92470519ce51941b4e3ef67.jar" />
+    </item>
+    <item
+        jar="E:\QASMT\Robotics\FTC__2015__16\Robot__App__\FTC_Scouter\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\22.0.0\jars\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="d84409890828e07d344a3b9b1da545dba9897b51">
+        <dex dex="E:\QASMT\Robotics\FTC__2015__16\Robot__App__\FTC_Scouter\app\build\intermediates\pre-dexed\debug\classes-ea7f10713346230f60d4587e1d01359fd17aa513.jar" />
+    </item>
+    <item
+        jar="C:\Users\ishan\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\22.0.0\support-annotations-22.0.0.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="685d0b2c590447e85284ed84712cb363ba04eff8">
+        <dex dex="E:\QASMT\Robotics\FTC__2015__16\Robot__App__\FTC_Scouter\app\build\intermediates\pre-dexed\debug\support-annotations-22.0.0-4cf2ddd0af582dbc047e95ba8e2ce838120f0a0e.jar" />
+    </item>
+    <item
+        jar="E:\QASMT\Robotics\FTC__2015__16\Robot__App__\FTC_Scouter\app\build\intermediates\exploded-aar\com.android.support\support-v4\22.0.0\jars\libs\internal_impl-22.0.0.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="b5b92f469d515a13d778900f6d50c03d12f35504">
+        <dex dex="E:\QASMT\Robotics\FTC__2015__16\Robot__App__\FTC_Scouter\app\build\intermediates\pre-dexed\debug\internal_impl-22.0.0-8117c203029092de88e1b957c9f7eda0632e316c.jar" />
+    </item>
+
+</items>

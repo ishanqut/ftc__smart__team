@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical" android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:weightSum="1">
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textAppearance="?android:attr/textAppearanceLarge"
+        android:text="Customize"
+        android:id="@+id/txt_title_customize"
+        android:layout_gravity="center_horizontal" />
+
+    <Button
+        android:layout_width="186dp"
+        android:layout_height="wrap_content"
+        android:text="Update"
+        android:id="@+id/btn_update"
+        android:layout_gravity="center_horizontal" />
+
+    <Button
+        android:layout_width="177dp"
+        android:layout_height="wrap_content"
+        android:text="New Input"
+        android:id="@+id/btn_new_text"
+        android:layout_gravity="center_horizontal" />
+
+    <ScrollView
+        android:layout_width="match_parent"
+        android:layout_height="410dp"
+        android:id="@+id/scroll_customize"
+        android:layout_gravity="center_horizontal"
+        android:layout_weight="1.05">
+
+        <LinearLayout
+            android:orientation="vertical"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:id="@+id/layout_edit">
+
+        </LinearLayout>
+    </ScrollView>
+
+</LinearLayout>
